@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Standa
 #### I am a 19 y.o. Student of CTU
-<img src='http://programmermemes.com/wp-content/uploads/2021/02/1614313094_597_126619378_152062346648958_3265942942695692444_n.jpg' alt='github' height='500'>
+<img src='http://programmermemes.com/wp-content/uploads/2021/02/1614313094_597_126619378_152062346648958_3265942942695692444_n.jpg' alt='github' height='350'>
 
 Hello/Dobrý den/Доброго дня 
 
