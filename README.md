@@ -12,7 +12,6 @@ Skills: Java / Spring / JUnit /  SQL / Html / Css
 - 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning Spring Framework
 - 💬 Ask me about everything 
-- ⚡️ Fun fact: 667 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chabasta)
