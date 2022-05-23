@@ -10,7 +10,6 @@ My name is Stanislav Chaban and i am software engineering student. Welcome to my
 Skills: Java / Spring / JUnit /  SQL / Html / Css
 
 - 🔭 I’m currently working on myself 
-- 🌱 I’m currently learning Spring Framework
 - 💬 Ask me about everything 
 
 
